@@ -1,5 +1,4 @@
 # Arithmetic Game
-
 This project, completed for the Programming Logic and Design (CPE3) course, played a pivotal role in solidifying my understanding of the subject. While seemingly simple, this project holds a special place in my development journey. As my first solo application built with VB.NET, it ignited my passion for software development. Although the code itself might appear basic, it provided an invaluable learning foundation.
 
 ## Key Learnings
