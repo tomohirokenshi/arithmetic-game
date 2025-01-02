@@ -14,3 +14,7 @@ This project, though seemingly simple, holds a special place in my development j
 ## Reflections
 
 Looking back, I recognize the value of this project lies beyond its functionality. It instilled in me the perseverance to overcome challenges and the joy of bringing my ideas to life through code. This experience serves as a testament to the power of experimentation and the continuous pursuit of improvement in my software development journey.
+
+## Side Note
+
+I apologize if the code snippet is missing. This project was created some time ago, and my computer was unfortunately corrupted. Luckily, the executable file survived.
