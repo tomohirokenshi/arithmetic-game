@@ -1,6 +1,6 @@
-# arithmetic-game
+# Arithmetic Game
 
-This project, though seemingly simple, holds a special place in my development journey. As my first solo application, built with VB.NET, it ignited my passion for software development. While the code itself might appear rudimentary, it served as an invaluable learning ground.
+This project, completed for the Programming Logic and Design (CPE3) course, played a pivotal role in solidifying my understanding of the subject. While seemingly simple, this project holds a special place in my development journey. As my first solo application built with VB.NET, it ignited my passion for software development. Although the code itself might appear basic, it provided an invaluable learning foundation.
 
 ## Key Learnings
 
